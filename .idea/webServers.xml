@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="819cfc49-9a7c-4b7f-b81a-41cf6560bc24" name="QueryDet_Flask">
+        <fileTransfer rootFolder="/home/xzy" accessType="SFTP" host="10.112.221.232" port="22" sshConfigId="2c5398ec-d6a8-428b-8859-c4881c50f744" sshConfig="xzy@10.112.221.232:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

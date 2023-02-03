@@ -1,0 +1,1 @@
+需要安装site-packages中的detectron2和detectron2_backbone
